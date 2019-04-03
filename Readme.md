@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/23/user/347883).
-* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
+* Студент: [Лидия Кудрявцева](https://up.htmlacademy.ru/htmlcss/16/user/347883).
+* Наставник: [Арсений Березин](https://htmlacademy.ru/profile/id263537).
 
 ---
 
